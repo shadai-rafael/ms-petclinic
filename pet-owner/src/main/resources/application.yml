@@ -1,0 +1,10 @@
+#Thu Jun 13 15:41:08 UTC 2024
+datasources:
+    default:
+        db-type: postgres
+        dialect: POSTGRES
+        driver-class-name: org.postgresql.Driver
+
+micronaut:
+    application:
+        name: pet-owner
